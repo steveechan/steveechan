@@ -1,3 +1,3 @@
 Senior at New Jersey Institute of Technology. Interested in front-end development.
 
-&langs_count=option
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steveechan&layout=compact)]
