@@ -1,6 +1,6 @@
 # Hi I'm Stephen
 
-Always open to learning new things. I love building things with new technologies and learning new stacks. 
+Always open to learning new things. I love building things with new technologies and learning new frameworks.
 
 ## Current Project
 
